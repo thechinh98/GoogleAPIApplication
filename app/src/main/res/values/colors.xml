@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="cloudBurst">#373D4A</color>
+    <color name="paleOyster">#9D8C70</color>
+    <color name="gainSbroro">#E2E2E2</color>
+    <color name="seashell">#FFF8F0</color>
+    <color name="warmGrey">#979797</color>
+    <color name="white">#ffffff</color>
+    <color name="cinnabar">#EB4C38</color>
+    <color name="brownGrey">#9d8c70</color>
+    <color name="watusi">#f5ceb8</color>
+    <color name="ghost">#C6C6C7</color>
+    <color name="midnightExpress">#222b45</color>
+    <color name="waxFlower">#e2b39b</color>
+    <color name="whiteSmoke">#f8f8f8</color>
+    <color name="bayOfMany">#33395f</color>
+    <color name="gulfBlue">#38415c</color>
+    <color name="melrose">#c7b8f5</color>
+    <color name="paynesGrey">#393c50</color>
+    <color name="dimGray">#676767</color>
+    <color name="spindle">#b7c2d5</color>
+    <color name="brightGrey">#515966</color>
+    <color name="navyBlue">#157ccc</color>
+    <color name="navyBlueDark">#0A426D</color>
+    <color name="babyBlue">#b2ceff</color>
+    <color name="sunflowerYellow">#ffd800</color>
+    <color name="blueGrey">#009fadc4</color>
+    <color name="selectiveYellow">#ffba00</color>
+    <color name="white10">#19ffffff</color>
+    <color name="midnightExpress2">#161f3d</color>
+    <color name="midnightExpress2_10percent">#1A161f3d</color>
+    <color name="midnightExpress2_65percent">#a6161f3d</color>
+    <color name="midnightExpress2_50percent">#80161f3d</color>
+    <color name="midnightExpress2_70percent">#b3161f3d</color>
+    <color name="midnightExpress2_80percent">#cc161f3d</color>
+    <color name="midnightExpress_40percent">#66161f3d</color>
+    <color name="blackRussian">#1d1d26</color>
+    <color name="blackRussian_50">#801d1d26</color>
+    <color name="blackRussianOpacity">#1a1d1d26</color>
+    <color name="cerise">#e9446a</color>
+    <color name="ghostWhite">#f2f3fa</color>
+    <color name="aliceBlue">#FBFCFE</color>
+</resources>
